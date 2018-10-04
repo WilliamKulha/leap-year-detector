@@ -10,6 +10,7 @@ _A website created with HTML and ECMAScript where a user can submit a year and f
 
 ### Specs
 | Spec | Input | Output |
+| :-------------     | :------------- | :------------- |
 **Program gathers user input** | User Input: "2014" | Output: "2014" |
 **Program evaluates whether the year is divisible by 4 or 400 and not by 100** | Input: "2004" | Output: true |
 **Program displays results on the page** | Input: true | Output: "2004 is a leap year!" |
